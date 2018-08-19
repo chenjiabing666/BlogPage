@@ -1,11 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="275be72e-9de5-4321-b09b-eb51dd798e21" name="Default Changelist" comment="" />
+    <list default="true" id="275be72e-9de5-4321-b09b-eb51dd798e21" name="Default Changelist" comment="本人博客html5">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/editor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/ISSUE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/dev/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/01-getstart/01-demo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/01-getstart/02-use-module.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/01-getstart/03-sperate.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/01-getstart/04-multi.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/02-content/01-set-content.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/02-content/02-get-content.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/02-content/03-use-textarea.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/02-content/04-get-json.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/01-menu.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/02-debug.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/03-onchange.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/04-z-index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/05-lang.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/06-paste.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/07-linkImgCallback.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/08-linkCheck.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/09-onfocus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/10-onblur.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/11-linkImgCheck.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/12-colors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/13-emot.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/14-font-name.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/04-uploadimg/01-show-tab.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/04-uploadimg/02-base64.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/04-uploadimg/03-upload-config.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/04-uploadimg/04-qiniu.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/05-other/01-全屏-预览-查看源码.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/05-other/02-上传附件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/05-other/03-markdown.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/05-other/04-xss.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/05-other/05-react.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/05-other/06-vue.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/05-other/07-ng.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/05-other/08-api.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/src/registerServiceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/dev-client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/dev-server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/src/components/Editor.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/src/components/Hello.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-amd-main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-amd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-css-reset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-emot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-fullscreen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-get-content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-getJSON.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-lang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-menus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-mult.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-onblur.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-onchange.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-onfocus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-paste.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-set-content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-sperate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-textarea.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-uploadimg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/Read Me.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/demo-files/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/demo-files/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/selection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/pay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/server/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/release/fonts/w-e-icon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/release/wangEditor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/release/wangEditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/release/wangEditor.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/release/wangEditor.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/release/wangEditor.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/fonts/w-e-icon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/command/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/editor/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/editor/upload/progress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/editor/upload/upload-img.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/backColor/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/bold/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/code/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/droplist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/emoticon/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/fontName/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/fontSize/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/foreColor/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/head/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/img/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/italic/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/justify/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/link/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/menu-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/panel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/quote/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/redo/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/strikethrough/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/table/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/underline/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/undo/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/video/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/selection/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/text/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/util/dom-core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/util/paste-handle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/util/poly-fill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/util/replace-lang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/util/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/less/common.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/less/droplist.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/less/icon.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/less/menus.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/less/panel.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/less/text.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpts_1079_bpm/3000套网站模板免费拥有.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpts_1079_bpm/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/cpts_1079_bpm/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpts_1079_bpm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cpts_1079_bpm/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,60 +226,13 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#13270#13277#1" expanded="true" />
-                <element signature="e#13534#13541#1" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="54" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/css/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="503" column="9" lean-forward="true" selection-start-line="503" selection-start-column="9" selection-end-line="503" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -114,7 +240,12 @@
     <findStrings>
       <find>article</find>
       <find>weixin</find>
+      <find>au-01</find>
+      <find>blogpic</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -123,9 +254,12 @@
         <option value="$PROJECT_DIR$/cpts_1079_bpm/angualrjs.html" />
         <option value="$PROJECT_DIR$/cpts_1079_bpm/js/my.js" />
         <option value="$PROJECT_DIR$/cpts_1079_bpm/js/index.js" />
-        <option value="$PROJECT_DIR$/cpts_1079_bpm/css/index.css" />
         <option value="$PROJECT_DIR$/cpts_1079_bpm/css/base.css" />
+        <option value="$PROJECT_DIR$/cpts_1079_bpm/css/htmleaf-demo.css" />
+        <option value="$PROJECT_DIR$/cpts_1079_bpm/css/index.css" />
         <option value="$PROJECT_DIR$/cpts_1079_bpm/index.html" />
+        <option value="$PROJECT_DIR$/editor.html" />
+        <option value="$PROJECT_DIR$/cpts_1079_bpm/editor.html" />
       </list>
     </option>
   </component>
@@ -135,33 +269,47 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/package.json" />
+      <path value="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/package.json" />
+      <path value="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="92" />
     <option name="width" value="1400" />
     <option name="height" value="860" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="cpts_1079_bpm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlogPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlogPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlogPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlogPage" type="462c0819:PsiDirectoryNode" />
               <item name="cpts_1079_bpm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="cpts_1079_bpm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlogPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlogPage" type="462c0819:PsiDirectoryNode" />
               <item name="cpts_1079_bpm" type="462c0819:PsiDirectoryNode" />
-              <item name="cpts_1079_bpm" type="462c0819:PsiDirectoryNode" />
+              <item name="wangEditor-3.1.1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,15 +318,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cpts_1079_bpm" />
       <recent name="C:\Users\Administrator\Downloads\cpts_1079_bpm\cpts_1079_bpm\css\BootStrap\css" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Downloads\cpts_1079_bpm\cpts_1079_bpm\js\Angularjs" />
-      <recent name="C:\Users\Administrator\Downloads\cpts_1079_bpm\cpts_1079_bpm\css\BootStrap" />
-      <recent name="C:\Users\Administrator\Downloads\cpts_1079_bpm\cpts_1079_bpm\js\BootStrap" />
+      <recent name="$PROJECT_DIR$/cpts_1079_bpm" />
+      <recent name="$PROJECT_DIR$/cpts_1079_bpm/pageScroller" />
+      <recent name="$PROJECT_DIR$/cpts_1079_bpm/js/pageScroller3d" />
+      <recent name="$PROJECT_DIR$/cpts_1079_bpm/images" />
+      <recent name="$PROJECT_DIR$/cpts_1079_bpm/css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -204,52 +356,38 @@
       <option name="presentableId" value="Default" />
       <updated>1534489642405</updated>
       <workItem from="1534489643859" duration="13300000" />
+      <workItem from="1534515364755" duration="3882000" />
+      <workItem from="1534520250620" duration="1406000" />
+      <workItem from="1534668844290" duration="1476000" />
+      <workItem from="1534684603408" duration="383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13300000" />
+    <option name="totallyTimeSpent" value="20447000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
     <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19181946" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19180088" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Messages" weight="0.3298351" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Run" order="6" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19181946" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -257,7 +395,82 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="本人博客html5" />
+    <option name="LAST_COMMIT_MESSAGE" value="本人博客html5" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#li#13;n#div#0;n#article#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#1;n#article#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4378">
+          <caret line="199" column="18" lean-forward="true" selection-start-line="199" selection-start-column="18" selection-end-line="199" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7018">
+          <caret line="319" column="16" lean-forward="true" selection-start-line="319" selection-start-column="16" selection-end-line="319" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#li#13;n#div#0;n#article#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#1;n#article#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2596">
+          <caret line="118" column="14" lean-forward="true" selection-start-line="118" selection-start-column="14" selection-end-line="118" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#li#13;n#div#0;n#article#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#1;n#article#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11066">
+          <caret line="503" column="9" lean-forward="true" selection-start-line="503" selection-start-column="9" selection-end-line="503" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/js/jquery-2.1.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -322,41 +535,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="503" column="9" lean-forward="true" selection-start-line="503" selection-start-column="9" selection-end-line="503" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        <state relative-caret-position="66">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="54" selection-end-column="9" />
+        <state relative-caret-position="638">
+          <caret line="29" selection-start-line="29" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/js/pageScroller3d/jquery.mousewheel.min.js" />
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/css/jquery.pageScroll3d.min.css" />
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/css/htmleaf-demo.css" />
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/pageScroller/babel/index.babel" />
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/pageScroller/img/2.jpg" />
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4378">
+          <caret line="199" column="18" selection-start-line="199" selection-start-column="18" selection-end-line="199" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/text/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        <state relative-caret-position="110">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#13270#13277#1" expanded="true" />
-            <element signature="e#13534#13541#1" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#li#13;n#div#0;n#article#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#1;n#article#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpts_1079_bpm/editor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>

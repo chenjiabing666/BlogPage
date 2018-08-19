@@ -122,8 +122,8 @@
 article {
     /*width: 1200px;*/
     /*margin: auto*/
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 77px;
+    margin-right: 75px;
 }
 
 /* rightbox */
@@ -154,6 +154,7 @@ h3.blogtitle {
     margin-right: 20px;
     border-radius: 5px;;
 }
+
 
 .autor {
     width: 100%;
@@ -195,7 +196,8 @@ h3.blogtitle {
 }
 
 .blogpic img {
-    width: 100%
+    width: 227px;
+    height: 110px;
 }
 
 .bloginfo p {
