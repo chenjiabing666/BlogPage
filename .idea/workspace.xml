@@ -1,179 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="275be72e-9de5-4321-b09b-eb51dd798e21" name="Default Changelist" comment="本人博客html5">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/editor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/ISSUE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/dev/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/01-getstart/01-demo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/01-getstart/02-use-module.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/01-getstart/03-sperate.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/01-getstart/04-multi.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/02-content/01-set-content.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/02-content/02-get-content.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/02-content/03-use-textarea.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/02-content/04-get-json.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/01-menu.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/02-debug.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/03-onchange.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/04-z-index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/05-lang.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/06-paste.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/07-linkImgCallback.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/08-linkCheck.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/09-onfocus.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/10-onblur.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/11-linkImgCheck.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/12-colors.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/13-emot.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/03-config/14-font-name.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/04-uploadimg/01-show-tab.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/04-uploadimg/02-base64.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/04-uploadimg/03-upload-config.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/04-uploadimg/04-qiniu.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/05-other/01-全屏-预览-查看源码.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/05-other/02-上传附件.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/05-other/03-markdown.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/05-other/04-xss.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/05-other/05-react.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/05-other/06-vue.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/05-other/07-ng.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/05-other/08-api.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/docs/usage/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-react/src/registerServiceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/.postcssrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/check-versions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/dev-client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/dev-server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/vue-loader.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/webpack.base.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/webpack.dev.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/build/webpack.prod.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/config/dev.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/config/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/config/prod.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/src/components/Editor.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/src/components/Hello.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/in-vue/static/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-amd-main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-amd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-css-reset.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-emot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-fullscreen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-get-content.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-getJSON.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-lang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-menus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-mult.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-onblur.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-onchange.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-onfocus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-paste.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-set-content.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-sperate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-textarea.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/demo/test-uploadimg.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/Read Me.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/demo-files/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/demo-files/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/selection.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/icomoon/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/pay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/example/server/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/release/fonts/w-e-icon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/release/wangEditor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/release/wangEditor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/release/wangEditor.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/release/wangEditor.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/release/wangEditor.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/fonts/w-e-icon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/command/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/editor/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/editor/upload/progress.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/editor/upload/upload-img.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/backColor/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/bold/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/code/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/droplist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/emoticon/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/fontName/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/fontSize/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/foreColor/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/head/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/img/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/italic/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/justify/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/link/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/list/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/menu-list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/panel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/quote/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/redo/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/strikethrough/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/table/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/underline/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/undo/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/menus/video/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/selection/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/text/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/util/dom-core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/util/paste-handle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/util/poly-fill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/util/replace-lang.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/js/util/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/less/common.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/less/droplist.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/less/icon.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/less/menus.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/less/panel.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpts_1079_bpm/wangEditor-3.1.1/src/less/text.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpts_1079_bpm/3000套网站模板免费拥有.url" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpts_1079_bpm/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/cpts_1079_bpm/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpts_1079_bpm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cpts_1079_bpm/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="275be72e-9de5-4321-b09b-eb51dd798e21" name="Default Changelist" comment="本人博客html5" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -300,12 +128,6 @@
               <item name="BlogPage" type="462c0819:PsiDirectoryNode" />
               <item name="cpts_1079_bpm" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="BlogPage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BlogPage" type="462c0819:PsiDirectoryNode" />
-              <item name="cpts_1079_bpm" type="462c0819:PsiDirectoryNode" />
-              <item name="wangEditor-3.1.1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -359,15 +181,23 @@
       <workItem from="1534515364755" duration="3882000" />
       <workItem from="1534520250620" duration="1406000" />
       <workItem from="1534668844290" duration="1476000" />
-      <workItem from="1534684603408" duration="383000" />
+      <workItem from="1534684603408" duration="689000" />
     </task>
+    <task id="LOCAL-00001" summary="本人博客html5">
+      <created>1534685035715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534685035716</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20447000" />
+    <option name="totallyTimeSpent" value="20753000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
+    <frame x="-1" y="-11" width="1368" height="780" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19180088" />
       <window_info anchor="bottom" id="TODO" order="10" />
